@@ -1,10 +1,6 @@
-console.log('starting notes.js...');
+console.log('Starting notes.js...');
 
-const notes = {
-  addNote: () => {
-    console.log('note added.');
-    return 'new note.';
-  }
+module.exports.addNote = () => {
+  console.log('note added.');
+  return 'new note.';
 };
-
-module.exports = notes;
