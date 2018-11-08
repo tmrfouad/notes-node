@@ -1,0 +1,8 @@
+[
+  { "title": "secret", "body": "this is my secret" },
+  { "title": "test title", "body": "test body" },
+  { "title": "to buy", "body": "food" },
+  { "title": "secret2", "body": "this is my second secret" },
+  { "title": "new note", "body": "new note body" },
+  { "title": "new title", "body": "test body" }
+]
